@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Page1Form.ui.qml</file>
+        <file>Page2Form.ui.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>Page1.qml</file>
+        <file>Page2.qml</file>
+        <file>res/compass_case.svg</file>
+        <file>res/compass_hand.svg</file>
+        <file>res/compass_ring.svg</file>
+        <file>res/Depth.svg</file>
+        <file>res/fi_left.png</file>
+        <file>res/fi_right.png</file>
+        <file>res/menu_face.svg</file>
+        <file>res/menu_logo.svg</file>
+        <file>res/menu_sub.svg</file>
+        <file>res/Mileage.svg</file>
+        <file>res/mui_face.svg</file>
+        <file>res/mui_ring.svg</file>
+        <file>res/mui_ring2.svg</file>
+        <file>Chart.qml</file>
+        <file>Page3.qml</file>
+        <file>Page3Form.ui.qml</file>
+        <file>res/1.png</file>
+        <file>res/2.png</file>
+        <file>res/3.png</file>
+        <file>res/4.png</file>
+        <file>res/5.png</file>
+        <file>res/6.png</file>
+        <file>jsonparser.js</file>
+        <file>canvas/DiscBar.qml</file>
+        <file>main.cpp</file>
+    </qresource>
+</RCC>
